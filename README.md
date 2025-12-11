@@ -29,6 +29,17 @@ The goal of this training was to strengthen fundamentals in **HTML, CSS, JavaScr
 
 ---
 
+CRT-Training/
+│── index.html
+│── login.html
+│── register.html
+│── about.html     (optional but good)
+│── style.css
+│── script.js
+└── README.md
+
+---
+
 ## 📝 Activities Covered
 
 ### ✔ HTML Practice
