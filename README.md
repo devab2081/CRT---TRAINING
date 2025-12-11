@@ -1,4 +1,4 @@
-# 📚 CRT Training – Web Development Project
+# 📚 CRT-WEB-Training – Web Development Project
 
 This repository contains all the tasks, practice files, and mini-projects completed as part of the **CRT (Campus Recruitment Training)** program focused on **Web Development**.
 
