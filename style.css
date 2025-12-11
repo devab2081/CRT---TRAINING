@@ -1,1 +1,80 @@
-body{background:#f1f1f1;}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f1f1f1;
+}
+
+/* Navigation Bar */
+nav {
+    background: #222;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a.active {
+    border-bottom: 2px solid #00e676;
+}
+
+/* Hero Section */
+.hero {
+    padding: 80px;
+    text-align: center;
+    background: white;
+}
+
+.hero button {
+    margin-top: 20px;
+    padding: 12px 25px;
+    border: none;
+    background: #00e676;
+    color: black;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form-container {
+    width: 350px;
+    background: white;
+    margin: 60px auto;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.form-container input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+}
+
+.form-container button {
+    width: 100%;
+    padding: 10px;
+    background: #00e676;
+    border: none;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.about-box {
+    width: 500px;
+    background: white;
+    margin: 50px auto;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
