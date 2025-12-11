@@ -38,6 +38,7 @@ CRT-Training/
 │── script.js
 └── README.md
 
+
 ---
 
 ## 📝 Activities Covered
