@@ -27,19 +27,21 @@ The goal of this training was to strengthen fundamentals in **HTML, CSS, JavaScr
 | 🗄️ Storage | File handling / Mock DB |
 | 🛠️ Tools | VS Code, Live Server, Chrome DevTools |
 
----
+## 📂 Project Structure
 
-CRT-Training/
-│── index.html
-│── login.html
-│── register.html
-│── about.html     (optional but good)
-│── style.css
-│── script.js
-└── README.md
+```
 
+CRT-Web-Training/
+│── index.html          # Home page
+│── login.html          # Login form
+│── register.html       # Registration form
+│── about.html          # About project (optional)
+│── style.css           # Styling (CSS)
+│── script.js           # JavaScript validation & interactions
+└── README.md           # Project documentation
 
----
+```
+
 
 ## 📝 Activities Covered
 
